@@ -26,7 +26,6 @@ SQS
 
    examples/sqs/queue
    examples/sqs/producer_consumer
-   examples/dynamo_db/insertions
 
 DynamoDB
 --------
